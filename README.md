@@ -1,4 +1,4 @@
-<h1 align="center">Briseida Carolina García Arzola</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F74C0&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales;Enfoque+en+DevOps+y+CI%2FCD;Buscando+residencia+profesional" alt="Typing SVG" /> </a> </p>
+<h1 align="center">Briseida Carolina García Arzola</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F2B705&center=true&vCenter=true&width=650&lines=%20Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Computacionales;%20Enfoque+en+DevOps+y+CI%2FCD;%20Buscando+residencia+profesional" alt="Typing SVG" /> </a> </p>
 Sobre mí
 
 Soy estudiante de Ingeniería en Sistemas Computacionales en el TECNM – Instituto Tecnológico de Saltillo, enfocada en DevOps, integración/entrega continua (CI/CD) y buenas prácticas de desarrollo. Me interesa automatizar procesos, construir pipelines eficientes y aprender constantemente sobre infraestructura y despliegue de software.
@@ -11,8 +11,6 @@ Enfoque actual
 Explorando CI/CD y automatización de pipelines
 Desarrollo full stack con bases sólidas en bases de datos
 Buscando oportunidades de residencia profesional
-Estadísticas de GitHub
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BrisOwO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrisOwO&hide_border=true" alt="GitHub Streak" height="165" /> </p>
 Contáctame
 <p align="left"> <a href="https://www.linkedin.com/in/briseida-carolina-garc%C3%ADa-arzola-b91950420" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:briseidag0311@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://raw.githubusercontent.com/BrisOwO/Briseida-Garcia/main/CV%20-%20Briseida%20Carolina%20Garcia%20Arzola%202026.pdf" target="_blank"> <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /> </a> </p>
 <p align="center"><i>Gracias por visitar mi perfil</i></p>
